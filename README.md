@@ -1,4 +1,8 @@
 # United States (International) with AltGr dead keys
+
+## Change in this fork
+Replaced characters `o`, `O`, `u`, `U` with circumflex to double acute accent.
+
 ## Introduction
 Windows includes a keyboard layout called "United States (International)", which allows typing many special characters easily.
 The layout defines several keys as "dead keys", such as the apostrophe (`'`) and double quotes (`"`).
